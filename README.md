@@ -1,1 +1,1 @@
-# facial.recognition.pi
+# facial.detection
